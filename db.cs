@@ -11,7 +11,7 @@ namespace dbops_sql
     internal class db
     {
         public static string connectionString =
-            "server=localhost;port=3306;database=<local_db_name>;uid=root;pwd=<local_db_password>;";
+            "server=localhost;port=3306;database=student;uid=root;pwd=root123;";
         public static MySqlConnection connection  = new MySqlConnection(connectionString);
 
         public static void openConnection()
