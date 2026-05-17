@@ -89,13 +89,8 @@ MySql.Data
 ## How to Run
 
 1. Clone the repository
-2. Open the solution in Visual Studio
+2. Open the solution in Visual Studio (to open solution explorer, use thsi shortcut - ctrl+alt+l)
 3. Configure the MySQL connection string in `db.cs`
 4. Run the SQL schema
 5. Start the application
 
----
-
-## Author
-
-Varun Sai
